@@ -34,9 +34,11 @@ The dashboard answers key questions like:
 
 | File | Description |
 |------|-------------|
-| `student_dashboard.pbix` | Power BI report file |
-| `student_dashboard.png` | Exported image of the dashboard |
 | `README.md` | Project description and summary |
+| `student report_dashboard.png` | Exported image of the dashboard |
+| `student_dashboard.pbix` | Power BI report file |
+| `study_performance.csv` | The data used
+
 
 
 
