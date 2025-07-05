@@ -39,7 +39,7 @@ The dashboard answers key questions like:
 | `student_report.pbix` | Power BI report file |
 | `study_performance.csv` | Dataset used
 
-
+Interact with the dashboard: <a href= "https://app.powerbi.com/groups/me/reports/19c13ff7-12ca-48c7-b9e7-b6b6f7e34591/8fa142ce9be61105871b?experience=power-bi"> PowerBi </a>
 
 
 ## 📬 Contact
